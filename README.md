@@ -1,5 +1,5 @@
 # University Examination Management Portal (UMEP)
-UMEP stores exam-related data such as students’ information, professors’ information, and all other exam-related details such as course, department, subjects, etc. 
+UMEP stores exam-related data such as students’ information, professors’ information, and all other exam-related details such as course, department, subjects, etc._
 The administrator can choose the subject according to the date, select classrooms, semesters, subjects, branches, and allot professors for supervision. Every piece of information will be stored in our database system.
 The examination department does not have to make separate data excel management sheets. UEMP can easily manage and print all the scheduled data. Students can even know their seating arrangement. 
 The system easily prints the specific exam date and seating plan data and gets the overall seating arrangement list. 
